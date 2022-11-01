@@ -2,7 +2,7 @@
 --
 -- Host: localhost    Database: hbtn_0c_0
 -- ------------------------------------------------------
--- Server version 8.0.31-0ubuntu0.20.04.1
+-- Server version 5.5.54-0ubuntu0.14.04.1
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
